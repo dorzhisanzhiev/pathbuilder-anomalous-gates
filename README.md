@@ -1,3 +1,2 @@
-# pathbuilder-ice-element-anomalous-gates
-Pathbuilder2e Download
+# Ice Element Pathbuilder2e Download
 Download the .json file and import it using the "Import Pack" option in you mobile app or web app to use Ice Element in Pathbuilder2e.
